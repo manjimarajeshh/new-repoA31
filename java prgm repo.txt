@@ -8,8 +8,8 @@ class GFG {
 	{
 
 		// f is to ensures that numbers are float DATA TYPE
-		float f1 = 5f;
-		float f2 = 2f;
+		float f1 = 9f;
+		float f2 = 4f;
 
 		// to store the multiplied value
 		float p = f1 * f2;
